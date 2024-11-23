@@ -20,26 +20,7 @@ Comprehensive project documentation, including steps for data preprocessing, mod
 Instructions for reproducing the results and using the FastAPI app.
 ### Repository Structure
 Microsoft-Malware-Prediction/<br>
-# Repository Structure
 
-The project is organized into the following directories and files:
-
-```plaintext
-Microsoft-Malware-Prediction/
-├── app/
-│   ├── main.py             # FastAPI app code
-│   ├── model.pkl           # Trained machine learning model
-├── docs/
-│   ├── project_overview.md # Detailed project documentation
-│   ├── usage_guide.md      # Instructions for using the FastAPI app
-├── notebooks/
-│   ├── data_analysis.ipynb # Exploratory data analysis
-│   ├── model_training.ipynb# Model training and evaluation
-├── models/
-│   ├── final_model.pkl     # Finalized machine learning model
-├── requirements.txt        # Python dependencies
-├── README.md               # Project overview and instructions
-```
 ### Getting Started
 Prerequisites
 Python 3.8 or higher<br>
